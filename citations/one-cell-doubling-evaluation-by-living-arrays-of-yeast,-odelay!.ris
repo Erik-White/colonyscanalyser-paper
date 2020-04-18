@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - One-Cell Doubling Evaluation by Living Arrays of Yeast, ODELAY!
+JF  - G3: Genes|Genomes|Genetics
+SP  - 279
+LP  - 288
+DO  - 10.1534/g3.116.037044
+VL  - 7
+IS  - 1
+AU  - Herricks, Thurston
+AU  - Dilworth, David J.
+AU  - Mast, Fred D.
+AU  - Li, Song
+AU  - Smith, Jennifer J.
+AU  - Ratushny, Alexander V.
+AU  - Aitchison, John D.
+Y1  - 2017/01/01
+UR  - http://www.g3journal.org/content/7/1/279.abstract
+N2  - Cell growth is a complex phenotype widely used in systems biology to gauge the impact of genetic and environmental perturbations. Due to the magnitude of genome-wide studies, resolution is often sacrificed in favor of throughput, creating a demand for scalable, time-resolved, quantitative methods of growth assessment. We present ODELAY (One-cell Doubling Evaluation by Living Arrays of Yeast), an automated and scalable growth analysis platform. High measurement density and single-cell resolution provide a powerful tool for large-scale multiparameter growth analysis based on the modeling of microcolony expansion on solid media. Pioneered in yeast but applicable to other colony forming organisms, ODELAY extracts the three key growth parameters (lag time, doubling time, and carrying capacity) that define microcolony expansion from single cells, simultaneously permitting the assessment of population heterogeneity. The utility of ODELAY is illustrated using yeast mutants, revealing a spectrum of phenotypes arising from single and combinatorial growth parameter perturbations.
+ER  - 

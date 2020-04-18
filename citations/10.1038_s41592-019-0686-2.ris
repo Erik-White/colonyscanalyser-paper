@@ -1,0 +1,127 @@
+TY  - JOUR
+AU  - Virtanen, Pauli
+AU  - Gommers, Ralf
+AU  - Oliphant, Travis E.
+AU  - Haberland, Matt
+AU  - Reddy, Tyler
+AU  - Cournapeau, David
+AU  - Burovski, Evgeni
+AU  - Peterson, Pearu
+AU  - Weckesser, Warren
+AU  - Bright, Jonathan
+AU  - van der Walt, Stéfan J.
+AU  - Brett, Matthew
+AU  - Wilson, Joshua
+AU  - Millman, K. Jarrod
+AU  - Mayorov, Nikolay
+AU  - Nelson, Andrew R. J.
+AU  - Jones, Eric
+AU  - Kern, Robert
+AU  - Larson, Eric
+AU  - Carey, C. J.
+AU  - Polat, İlhan
+AU  - Feng, Yu
+AU  - Moore, Eric W.
+AU  - VanderPlas, Jake
+AU  - Laxalde, Denis
+AU  - Perktold, Josef
+AU  - Cimrman, Robert
+AU  - Henriksen, Ian
+AU  - Quintero, E. A.
+AU  - Harris, Charles R.
+AU  - Archibald, Anne M.
+AU  - Ribeiro, Antônio H.
+AU  - Pedregosa, Fabian
+AU  - van Mulbregt, Paul
+AU  - Vijaykumar, Aditya
+AU  - Bardelli, Alessandro Pietro
+AU  - Rothberg, Alex
+AU  - Hilboll, Andreas
+AU  - Kloeckner, Andreas
+AU  - Scopatz, Anthony
+AU  - Lee, Antony
+AU  - Rokem, Ariel
+AU  - Woods, C. Nathan
+AU  - Fulton, Chad
+AU  - Masson, Charles
+AU  - Häggström, Christian
+AU  - Fitzgerald, Clark
+AU  - Nicholson, David A.
+AU  - Hagen, David R.
+AU  - Pasechnik, Dmitrii V.
+AU  - Olivetti, Emanuele
+AU  - Martin, Eric
+AU  - Wieser, Eric
+AU  - Silva, Fabrice
+AU  - Lenders, Felix
+AU  - Wilhelm, Florian
+AU  - Young, G.
+AU  - Price, Gavin A.
+AU  - Ingold, Gert-Ludwig
+AU  - Allen, Gregory E.
+AU  - Lee, Gregory R.
+AU  - Audren, Hervé
+AU  - Probst, Irvin
+AU  - Dietrich, Jörg P.
+AU  - Silterra, Jacob
+AU  - Webber, James T.
+AU  - Slavič, Janko
+AU  - Nothman, Joel
+AU  - Buchner, Johannes
+AU  - Kulick, Johannes
+AU  - Schönberger, Johannes L.
+AU  - de Miranda Cardoso, José Vinícius
+AU  - Reimer, Joscha
+AU  - Harrington, Joseph
+AU  - Rodríguez, Juan Luis Cano
+AU  - Nunez-Iglesias, Juan
+AU  - Kuczynski, Justin
+AU  - Tritz, Kevin
+AU  - Thoma, Martin
+AU  - Newville, Matthew
+AU  - Kümmerer, Matthias
+AU  - Bolingbroke, Maximilian
+AU  - Tartre, Michael
+AU  - Pak, Mikhail
+AU  - Smith, Nathaniel J.
+AU  - Nowaczyk, Nikolai
+AU  - Shebanov, Nikolay
+AU  - Pavlyk, Oleksandr
+AU  - Brodtkorb, Per A.
+AU  - Lee, Perry
+AU  - McGibbon, Robert T.
+AU  - Feldbauer, Roman
+AU  - Lewis, Sam
+AU  - Tygier, Sam
+AU  - Sievert, Scott
+AU  - Vigna, Sebastiano
+AU  - Peterson, Stefan
+AU  - More, Surhud
+AU  - Pudlik, Tadeusz
+AU  - Oshima, Takuya
+AU  - Pingel, Thomas J.
+AU  - Robitaille, Thomas P.
+AU  - Spura, Thomas
+AU  - Jones, Thouis R.
+AU  - Cera, Tim
+AU  - Leslie, Tim
+AU  - Zito, Tiziano
+AU  - Krauss, Tom
+AU  - Upadhyay, Utkarsh
+AU  - Halchenko, Yaroslav O.
+AU  - Vázquez-Baeza, Yoshiki
+AU  - SciPy 1.0 Contributors
+PY  - 2020
+DA  - 2020/03/01
+TI  - SciPy 1.0: fundamental algorithms for scientific computing in Python
+JO  - Nature Methods
+SP  - 261
+EP  - 272
+VL  - 17
+IS  - 3
+AB  - SciPy is an open-source scientific computing library for the Python programming language. Since its initial release in 2001, SciPy has become a de facto standard for leveraging scientific algorithms in Python, with over 600 unique code contributors, thousands of dependent packages, over 100,000 dependent repositories and millions of downloads per year. In this work, we provide an overview of the capabilities and development practices of SciPy 1.0 and highlight some recent technical developments.
+SN  - 1548-7105
+UR  - https://doi.org/10.1038/s41592-019-0686-2
+DO  - 10.1038/s41592-019-0686-2
+ID  - Virtanen2020
+ER  - 

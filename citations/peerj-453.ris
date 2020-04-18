@@ -1,0 +1,32 @@
+TY  - JOUR
+UR  - https://doi.org/10.7717/peerj.453
+DO  - 10.7717/peerj.453
+TI  - scikit-image: image processing in Python
+AU  - van der Walt,Stéfan
+AU  - Schönberger,Johannes L.
+AU  - Nunez-Iglesias,Juan
+AU  - Boulogne,François
+AU  - Warner,Joshua D.
+AU  - Yager,Neil
+AU  - Gouillart,Emmanuelle
+AU  - Yu,Tony
+A2  - Gomez,Shawn
+DA  - 2014/06/19
+PY  - 2014
+KW  - Image processing
+KW  - Reproducible research
+KW  - Education
+KW  - Visualization
+KW  - Open source
+KW  - Python
+KW  - Scientific programming
+AB  - 
+        scikit-image is an image processing library that implements algorithms and utilities for use in research, education and industry applications. It is released under the liberal Modified BSD open source license, provides a well-documented API in the Python programming language, and is developed by an active, international team of collaborators. In this paper we highlight the advantages of open source to achieve the goals of the scikit-image library, and we showcase several real-world image processing applications that use scikit-image. More information can be found on the project homepage, http://scikit-image.org.
+      
+VL  - 2
+SP  - e453
+T2  - PeerJ
+JO  - PeerJ
+J2  - PeerJ
+SN  - 2167-8359
+ER  - 

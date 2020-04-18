@@ -1,0 +1,24 @@
+TY  - JOUR
+DB  - PubMed
+AU  - Zwietering, M H
+AU  - Jongenburger, I
+AU  - Rombouts, F M
+AU  - van 't Riet, K
+T1  - Modeling of the bacterial growth curve
+LA  - eng
+SN  - 0099-2240
+SN  - 1098-5336
+Y1  - 1990/06/
+AB  - Several sigmoidal functions (logistic, Gompertz, Richards, Schnute, and Stannard) were compared to describe a bacterial growth curve. They were compared statistically by using the model of Schnute, which is a comprehensive model, encompassing all other models. The t test and the F test were used. With the t test, confidence intervals for parameters can be calculated and can be used to distinguish between models. In the F test, the lack of fit of the models is compared with the measuring error. Moreover, the models were compared with respect to their ease of use. All sigmoidal functions were modified so that they contained biologically relevant parameters. The models of Richards, Schnute, and Stannard appeared to be basically the same equation. In the cases tested, the modified Gompertz equation was statistically sufficient to describe the growth data of Lactobacillus plantarum and was easy to use.
+SP  - 1875
+EP  - 1881
+VL  - 56
+IS  - 6
+AN  - 16348228
+UR  - https://pubmed.ncbi.nlm.nih.gov/16348228
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC184525/
+U1  - 16348228[pmid]
+U2  - PMC184525[pmcid]
+J2  - Appl Environ Microbiol
+JF  - Applied and environmental microbiology
+ER  - 
