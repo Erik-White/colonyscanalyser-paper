@@ -1,0 +1,40 @@
+TY  - JOUR
+DB  - PubMed
+AU  - McCall, Andrew D
+AU  - Kumar, Rohitashw
+AU  - Edgerton, Mira
+T1  - Candida albicans Sfl1/Sfl2 regulatory network drives the formation of pathogenic microcolonies
+LA  - eng
+SN  - 1553-7374
+SN  - 1553-7366
+Y1  - 2018/09/25
+AB  - Candida albicans is an opportunistic fungal pathogen that can infect oral mucosal surfaces while being under continuous flow from saliva. Under specific conditions, C. albicans will form microcolonies that more closely resemble the biofilms formed in vivo than standard in vitro biofilm models. However, very little is known about these microcolonies, particularly genomic differences between these specialized biofilm structures and the traditional in vitro biofilms. In this study, we used a novel flow system, in which C. albicans spontaneously forms microcolonies, to further characterize the architecture of fungal microcolonies and their genomics compared to non-microcolony conditions. Fungal microcolonies arose from radially branching filamentous hyphae that increasingly intertwined with one another to form extremely dense biofilms, and closely resembled the architecture of in vivo oropharyngeal candidiasis. We identified 20 core microcolony genes that were differentially regulated in flow-induced microcolonies using RNA-seq. These genes included HWP1, ECE1, IHD1, PLB1, HYR1, PGA10, and SAP5. A predictive algorithm was utilized to identify ten transcriptional regulators potentially involved in microcolony formation. Of these transcription factors, we found that Rob1, Ndt80, Sfl1 and Sfl2, played a key role in microcolony formation under both flow and static conditions and to epithelial surfaces. Expression of core microcolony genes were highly up-regulated in Δsfl1 cells and down-regulated in both Δsfl2 and Δrob1 strains. Microcolonies formed on oral epithelium using C. albicans Δsfl1, Δsfl2 and Δrob1 deletion strains all had altered adhesion, invasion and cytotoxicity. Furthermore, epithelial cells infected with deletion mutants had reduced (SFL2, NDT80, and ROB1) or enhanced (SFL2) immune responses, evidenced by phosphorylation of MKP1 and c-Fos activation, key signal transducers in the hyphal invasion response. This profile of microcolony transcriptional regulators more closely reflects Sfl1 and Sfl2 hyphal regulatory networks than static biofilm regulatory networks, suggesting that microcolonies are a specialized pathogenic form of biofilm.
+SP  - e1007316
+EP  - e1007316
+VL  - 14
+IS  - 9
+AN  - 30252918
+UR  - https://pubmed.ncbi.nlm.nih.gov/30252918
+DO  - 10.1371/journal.ppat.1007316
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6173444/
+U1  - 30252918[pmid]
+U2  - PMC6173444[pmcid]
+U4  - PPATHOGENS-D-18-00768[PII]
+J2  - PLoS Pathog
+JF  - PLoS pathogens
+KW  - Biofilms/growth & development
+KW  - Candida albicans/*genetics/growth & development/*pathogenicity
+KW  - Candidiasis, Oral/etiology/microbiology
+KW  - Cell Line
+KW  - Colony Count, Microbial
+KW  - Fungal Proteins/genetics
+KW  - Gene Regulatory Networks
+KW  - Genome, Fungal
+KW  - Humans
+KW  - Hyphae/genetics/growth & development/pathogenicity
+KW  - Mutation
+KW  - Opportunistic Infections/etiology/microbiology
+KW  - Transcription Factors/genetics
+KW  - Virulence/genetics
+PB  - Public Library of Science
+ER  - 

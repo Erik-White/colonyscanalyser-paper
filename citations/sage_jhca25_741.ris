@@ -1,0 +1,29 @@
+
+
+
+
+
+TY  - JOUR
+T1  - Automatic measurement of sister chromatid exchange frequency.
+AU  - Zack, G W
+AU  - Rogers, W E
+AU  - Latt, S A
+Y1  - 1977/07/01
+PY  - 1977
+DA  - 1977/07/01
+N1  - doi: 10.1177/25.7.70454
+DO  - 10.1177/25.7.70454
+T2  - Journal of Histochemistry & Cytochemistry
+JF  - Journal of Histochemistry & Cytochemistry
+JO  - J Histochem Cytochem.
+SP  - 741
+EP  - 753
+VL  - 25
+IS  - 7
+PB  - Journal of Histochemistry & Cytochemistry
+N2  - An automatic system for detecting and counting sister chromatid exchanges in human chromosomes has been developed. Metaphase chromosomes from lymphocytes which had incorporated 5-bromodeoxyuridine for two replication cycles were treated with the dye 33258 Hoechst and photodegraded so that the sister chromatids exhibited differential Giemsa staining. A computer-controlled television-microscope system was used to acquire digitized metaphase spread images by direct scanning of microscope slides. Individual objects in the images were identified by a thresholding procedure. The probability that each object was a single, separate chromosome was estimated from size and shape measurements. An analysis of the spatial relationships of the dark-chromatid regions of each object yielded a set of possible exchange locations and estimated probabilities that such locations corresponded to sister chromatid exchanges. A normalized estimate of the sister chromatid exchange frequency was obtained by summing the joint probabilities that a location contained an exchange within a single, separate chromosome over the set of chromosomes from one or more cells and dividing by the expected value of the total chromosome area analyzed. Comparison with manual scoring of exchanges showed satisfactory agreement up to levels of approximately 30 sister chromatid exchanges/cell, or slightly more than twice control levels. The processing time for this automated sister chromatid exchange detection system was comparable to that of manual scoring.
+SN  - 0022-1554
+M3  - doi: 10.1177/25.7.70454
+UR  - https://doi.org/10.1177/25.7.70454
+Y2  - 2020/04/29
+ER  - 
