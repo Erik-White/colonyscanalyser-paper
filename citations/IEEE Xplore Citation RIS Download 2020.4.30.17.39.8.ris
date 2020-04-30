@@ -1,0 +1,53 @@
+TY  - CONF
+TI  - Plate analyzer - a yeast colony size measurement system
+T2  - 2010 IEEE International Workshop on Medical Measurements and Applications
+SP  - 140
+EP  - 144
+AU  - O. Wetherow
+AU  - J. Green
+AU  - A. D. C. Chan
+AU  - A. Golshani
+PY  - 2010
+KW  - biology computing
+KW  - genomics
+KW  - image registration
+KW  - molecular biophysics
+KW  - plate analyzer
+KW  - yeast colony size measurement system
+KW  - growth detector susceptibility
+KW  - Octave
+KW  - noncommercial purposes
+KW  - preprocessing method
+KW  - nonstandardized markers
+KW  - plate image registration
+KW  - arbitrary dimension
+KW  - spotting pattern
+KW  - nonhomogenous illumination
+KW  - functional genomics
+KW  - Fungi
+KW  - Size measurement
+KW  - Detectors
+KW  - Genomics
+KW  - Bioinformatics
+KW  - Image analysis
+KW  - Pattern analysis
+KW  - Laboratories
+KW  - Lighting
+KW  - Robustness
+KW  - colony size measurement
+KW  - functional genomics
+KW  - gene deletion experiments
+KW  - image processing
+KW  - Otsu's method
+DO  - 10.1109/MEMEA.2010.5480211
+JO  - 2010 IEEE International Workshop on Medical Measurements and Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 IEEE International Workshop on Medical Measurements and Applications
+Y1  - 30 April-1 May 2010
+AB  - Automated systems that can measure colony sizes (e.g. saccharomyces cerevisiae) are a useful tool for research in functional genomics, allowing for fast and convenient analyses. This motivated the previous development of an image analysis based, colony size measurement system called Growth Detector. In this paper, we introduce a new colony size measurement system called Plate Analyzer, which expands upon Growth Detector. This system is implemented in Octave and will be made freely available for non-commercial purposes. A new preprocessing method is presented, which removes the Growth Detector requirements of non-standardized markers that are used for scaling, alignment, and registration of plate images. Furthermore, the new system is able to analyze plates of arbitrary dimension and spotting pattern, facilitating its adoption by other research laboratories. Growth Detector's susceptibility to the effects of non-homogenous illumination is discussed and is motivating research into localized analysis of colony sizes. The enhancements in Plate Analyzer will enable more wide use of this system through its increased accessibility, while simultaneously improving upon the generalizability, accuracy, and robustness of the analysis.
+ER  - 
+
+

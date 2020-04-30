@@ -1,0 +1,38 @@
+TY  - JOUR
+DB  - PubMed
+AU  - Wagih, Omar
+AU  - Parts, Leopold
+T1  - gitter: a robust and accurate method for quantification of colony sizes from plate images
+LA  - eng
+SN  - 2160-1836
+Y1  - 2014/03/20
+AB  - Colony-based screens that quantify the fitness of clonal populations on solid agar plates are perhaps the most important source of genome-scale functional information in microorganisms. The images of ordered arrays of mutants produced by such experiments can be difficult to process because of laboratory-specific plate features, morphed colonies, plate edges, noise, and other artifacts. Most of the tools developed to address this problem are optimized to handle a single setup and do not work out of the box in other settings. We present gitter, an image analysis tool for robust and accurate processing of images from colony-based screens. gitter works by first finding the grid of colonies from a preprocessed image and then locating the bounds of each colony separately. We show that gitter produces comparable colony sizes to other tools in simple cases but outperforms them by being able to handle a wider variety of screens and more accurately quantify colony sizes from difficult images. gitter is freely available as an R package from http://cran.r-project.org/web/packages/gitter under the LGPL. Tutorials and demos can be found at http://omarwagih.github.io/gitter.
+SP  - 547
+EP  - 552
+VL  - 4
+IS  - 3
+AN  - 24474170
+UR  - https://pubmed.ncbi.nlm.nih.gov/24474170
+DO  - 10.1534/g3.113.009431
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962492/
+U1  - 24474170[pmid]
+U2  - PMC3962492[pmcid]
+U4  - g3.113.009431[PII]
+J2  - G3 (Bethesda)
+JF  - G3 (Bethesda, Md.)
+KW  - Genetics
+KW  - Image Analysis
+KW  - R
+KW  - Synthetic Genetic Array
+KW  - Animals
+KW  - Colony Count, Microbial
+KW  - Drosophila melanogaster/growth & development/physiology
+KW  - Escherichia coli/growth & development/isolation & purification
+KW  - Image Processing, Computer-Assisted
+KW  - Internet
+KW  - Saccharomyces cerevisiae/growth & development/isolation & purification
+KW  - Schizosaccharomyces/growth & development/isolation & purification
+KW  - *Software
+KW  - User-Computer Interface
+PB  - Genetics Society of America
+ER  - 
