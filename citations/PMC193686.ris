@@ -1,0 +1,38 @@
+TY  - JOUR
+DB  - PubMed
+AU  - Kishony, Roy
+AU  - Leibler, Stanislas
+T1  - Environmental stresses can alleviate the average deleterious effect of mutations
+LA  - eng
+SN  - 1475-4924
+SN  - 1478-5854
+Y1  - 2003
+ET  - 2003/05/29
+AB  - BACKGROUND: Fundamental questions in evolutionary genetics, including the possible advantage of sexual reproduction, depend critically on the effects of deleterious mutations on fitness. Limited existing experimental evidence suggests that, on average, such effects tend to be aggravated under environmental stresses, consistent with the perception that stress diminishes the organism's ability to tolerate deleterious mutations. Here, we ask whether there are also stresses with the opposite influence, under which the organism becomes more tolerant to mutations. RESULTS: We developed a technique, based on bioluminescence, which allows accurate automated measurements of bacterial growth rates at very low cell densities. Using this system, we measured growth rates of Escherichia coli mutants under a diverse set of environmental stresses. In contrast to the perception that stress always reduces the organism's ability to tolerate mutations, our measurements identified stresses that do the opposite - that is, despite decreasing wild-type growth, they alleviate, on average, the effect of deleterious mutations. CONCLUSIONS: Our results show a qualitative difference between various environmental stresses ranging from alleviation to aggravation of the average effect of mutations. We further show how the existence of stresses that are biased towards alleviation of the effects of mutations may imply the existence of average epistatic interactions between mutations. The results thus offer a connection between the two main factors controlling the effects of deleterious mutations: environmental conditions and epistatic interactions.
+SP  - 14
+EP  - 14
+VL  - 2
+IS  - 2
+AN  - 12775217
+UR  - https://pubmed.ncbi.nlm.nih.gov/12775217
+DO  - 10.1186/1475-4924-2-14
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC193686/
+U1  - 12775217[pmid]
+U2  - PMC193686[pmcid]
+J2  - J Biol
+JF  - Journal of biology
+KW  - Cold Temperature/adverse effects
+KW  - Culture Media
+KW  - *Environment
+KW  - Escherichia coli K12/enzymology/genetics/growth & development
+KW  - Evolution, Molecular
+KW  - Genes, Reporter
+KW  - Hydrogen-Ion Concentration
+KW  - Luciferases/biosynthesis
+KW  - Luminescence
+KW  - Luminescent Measurements/methods
+KW  - Models, Genetic
+KW  - Mutation/*genetics
+KW  - Osmolar Concentration
+PB  - BioMed Central
+ER  - 

@@ -1,0 +1,25 @@
+TY  - JOUR
+DB  - PubMed
+AU  - Warringer, Jonas
+AU  - Anevski, Dragi
+AU  - Liu, Beidong
+AU  - Blomberg, Anders
+T1  - Chemogenetic fingerprinting by analysis of cellular growth dynamics
+LA  - eng
+SN  - 1472-6769
+Y1  - 2008/08/22
+AB  - BACKGROUND: A fundamental goal in chemical biology is the elucidation of on- and off-target effects of drugs and biocides. To this aim chemogenetic screens that quantify drug induced changes in cellular fitness, typically taken as changes in composite growth, is commonly applied. RESULTS: Using the model organism Saccharomyces cerevisiae we here report that resolving cellular growth dynamics into its individual components, growth lag, growth rate and growth efficiency, increases the predictive power of chemogenetic screens. Both in terms of drug-drug and gene-drug interactions did the individual growth variables capture distinct and only partially overlapping aspects of cell physiology. In fact, the impact on cellular growth dynamics represented functionally distinct chemical fingerprints. DISCUSSION: Our findings suggest that the resolution and quantification of all facets of growth increases the informational and interpretational output of chemogenetic screening. Hence, by facilitating a physiologically more complete analysis of gene-drug and drug-drug interactions the here reported results may simplify the assignment of mode-of-action to orphan bioactive compounds.
+SP  - 3
+EP  - 3
+VL  - 8
+AN  - 18721464
+UR  - https://pubmed.ncbi.nlm.nih.gov/18721464
+DO  - 10.1186/1472-6769-8-3
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2532679/
+U1  - 18721464[pmid]
+U2  - PMC2532679[pmcid]
+U4  - 1472-6769-8-3[PII]
+J2  - BMC Chem Biol
+JF  - BMC chemical biology
+PB  - BioMed Central
+ER  - 

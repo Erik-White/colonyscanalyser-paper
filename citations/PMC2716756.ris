@@ -1,0 +1,43 @@
+TY  - JOUR
+DB  - PubMed
+AU  - St Onge, Robert P
+AU  - Mani, Ramamurthy
+AU  - Oh, Julia
+AU  - Proctor, Michael
+AU  - Fung, Eula
+AU  - Davis, Ronald W
+AU  - Nislow, Corey
+AU  - Roth, Frederick P
+AU  - Giaever, Guri
+T1  - Systematic pathway analysis using high-resolution fitness profiling of combinatorial gene deletions
+LA  - eng
+SN  - 1061-4036
+SN  - 1546-1718
+Y1  - 2007/02/
+ET  - 2007/01/07
+AB  - Systematic genetic interaction studies have illuminated many cellular processes. Here we quantitatively examine genetic interactions among 26 Saccharomyces cerevisiae genes conferring resistance to the DNA-damaging agent methyl methanesulfonate (MMS), as determined by chemogenomic fitness profiling of pooled deletion strains. We constructed 650 double-deletion strains, corresponding to all pairings of these 26 deletions. The fitness of single- and double-deletion strains were measured in the presence and absence of MMS. Genetic interactions were defined by combining principles from both statistical and classical genetics. The resulting network predicts that the Mph1 helicase has a role in resolving homologous recombination-derived DNA intermediates that is similar to (but distinct from) that of the Sgs1 helicase. Our results emphasize the utility of small molecules and multifactorial deletion mutants in uncovering functional relationships and pathway order.
+SP  - 199
+EP  - 206
+VL  - 39
+IS  - 2
+AN  - 17206143
+UR  - https://pubmed.ncbi.nlm.nih.gov/17206143
+DO  - 10.1038/ng1948
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2716756/
+U1  - 17206143[pmid]
+U2  - PMC2716756[pmcid]
+U4  - ng1948[PII]
+J2  - Nat Genet
+JF  - Nature genetics
+KW  - DEAD-box RNA Helicases/*genetics
+KW  - DNA Repair
+KW  - *Gene Deletion
+KW  - *Genes, Fungal
+KW  - Methyl Methanesulfonate/*toxicity
+KW  - Models, Genetic
+KW  - Molecular Sequence Data
+KW  - RecQ Helicases/genetics
+KW  - *Recombination, Genetic
+KW  - Saccharomyces cerevisiae/*genetics
+KW  - Saccharomyces cerevisiae Proteins/*genetics
+ER  - 

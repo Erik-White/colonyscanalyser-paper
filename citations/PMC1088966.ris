@@ -1,0 +1,38 @@
+TY  - JOUR
+DB  - PubMed
+AU  - Drees, Becky L
+AU  - Thorsson, Vesteinn
+AU  - Carter, Gregory W
+AU  - Rives, Alexander W
+AU  - Raymond, Marisa Z
+AU  - Avila-Campillo, Iliana
+AU  - Shannon, Paul
+AU  - Galitski, Timothy
+T1  - Derivation of genetic interaction networks from quantitative phenotype data
+LA  - eng
+SN  - 1474-760X
+SN  - 1465-6906
+Y1  - 2005
+ET  - 2005/03/31
+AB  - We have generalized the derivation of genetic-interaction networks from quantitative phenotype data. Familiar and unfamiliar modes of genetic interaction were identified and defined. A network was derived from agar-invasion phenotypes of mutant yeast. Mutations showed specific modes of genetic interaction with specific biological processes. Mutations formed cliques of significant mutual information in their large-scale patterns of genetic interaction. These local and global interaction patterns reflect the effects of gene perturbations on biological processes and pathways.
+SP  - R38
+EP  - R38
+VL  - 6
+IS  - 4
+AN  - 15833125
+UR  - https://pubmed.ncbi.nlm.nih.gov/15833125
+DO  - 10.1186/gb-2005-6-4-r38
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1088966/
+U1  - 15833125[pmid]
+U2  - PMC1088966[pmcid]
+U4  - gb-2005-6-4-r38[PII]
+J2  - Genome Biol
+JF  - Genome biology
+KW  - Genes, Fungal/genetics
+KW  - Genetics
+KW  - Genotype
+KW  - Mutation/*genetics
+KW  - Phenotype
+KW  - Saccharomyces cerevisiae/*genetics/*metabolism
+PB  - BioMed Central
+ER  - 
